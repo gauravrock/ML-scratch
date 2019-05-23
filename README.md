@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML-scratch
 This repo contains all the code and mathematical concepts from scratch.
 
@@ -12,3 +13,12 @@ This repo contains all the code and mathematical concepts from scratch.
 
 for more:
 https://www.youtube.com/watch?v=eTxyviU0Ddo
+||||||| merged common ancestors
+# ML-scratch
+This repo contains all the code and mathematical concepts from scratch.
+=======
+# ML-scratch(https://staticml.blogspot.com/)
+This repo contains all the code and mathematical concepts from scratch. 
+please fork the repo if u find or want to add something new.
+
+>>>>>>> aa372ed43bf923a7c98207c89bea29d7a5757b26
